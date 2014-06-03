@@ -61,4 +61,22 @@ Alright! I'm ready, lets see what the fishermen need help with!
 [AFace] 2
 [Name] \n[2]
 Don't worry! I'll be coming with you to help out!
+
+# Fish Event
+[Key] Fish 1
+[AFace] 1
+[Name] \n[1]
+Alright! I caught one!... Huh? Thats not a fish... Thats a slime!
+
+[Key] Fish 2
+[AFace] 2
+[Name] \n[2]
+What is a slime doing here? What do we do \n[1]?
+
+[Key] Fish 3
+[AFace] 2
+[Name] \n[1]
+Well there is only one thing we can do \n[2] and its to fight! We've been training for things like this to happen!
+
+#execute battle phase
 // End Prologue
