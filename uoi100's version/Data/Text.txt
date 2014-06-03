@@ -1,2 +1,21 @@
-[1] !1!
-!HELLO!
+# Introduction
+[Key] Intro 1
+[Face] Actor5, 7
+[Name] Isabelle
+So some foolish heroes are approaching my land, hm? I'll just have to stomp them out!
+
+[Key] Intro 2
+[PFace] 0
+[Name] \p[1]
+So this is the evil empire of Cliche...
+
+[Key] Intro 3
+[AFace] 4
+[Name] \n[4]
+Boss, are you sure we should be here? It's dangerous.
+
+[Key] Intro 4
+[DFace] Ralph
+[Name] Ralph
+Nonsense! Chaaaaaarge!
+// End Introduction
