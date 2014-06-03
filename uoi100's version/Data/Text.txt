@@ -1,4 +1,4 @@
-# Introduction
+# Prologue
 [Key] Intro 1
 [Face] 0
 [Name] 
@@ -61,4 +61,4 @@ Alright! I'm ready, lets see what the fishermen need help with!
 [AFace] 2
 [Name] \n[2]
 Don't worry! I'll be coming with you to help out!
-// End Introduction
+// End Prologue
